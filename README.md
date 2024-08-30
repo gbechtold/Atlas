@@ -20,7 +20,7 @@ Atlas is a fun and interactive command-line tool designed to assist system admin
 
 1. Clone the repository:
    ```
-   git clone https://your-repo-url.git
+   git clone https://github.com/gbechtold/Atlas.git
    cd atlas
    ```
 
